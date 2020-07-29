@@ -12,5 +12,5 @@ Pronouns are she/her.
  * [Glimpse (Governor and main developer of rewrite)](https://glimpse-editor.org)
  * [YeetBot](https://github.com/Member1221/yeetbot)
  * [Kitsunemimi (Lesbian Foxgirl Metroidvania)](https://twitter.com/KitsunemimiGame)
- * [Kitsune Mahjong](https://github.com/Member1221/kitsune-mahjong)
+ * [Kitsune Mahjong](https://github.com/KitsunebiGames/km-engine)
  * [Polyplex Gamedev Framework](https://github.com/PolyplexEngine/libpp)
