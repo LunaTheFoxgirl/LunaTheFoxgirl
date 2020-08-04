@@ -2,6 +2,8 @@
 I'm a trans gal from Denmark that does programming.
 Pronouns are she/her.
 
+Avatar drawn by [ku-ini](https://twitter.com/duckmastah)
+
 # I like
  * Foxgirls
  * Programming
