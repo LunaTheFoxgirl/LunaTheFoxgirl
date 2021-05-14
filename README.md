@@ -2,7 +2,7 @@
 I'm a trans gal from Denmark that does programming.
 Pronouns are she/her.
 
-Avatar drawn by [ku-ini](https://twitter.com/duckmastah)
+Avatar drawn by [Sakura Hama](https://twitter.com/sakura_hama)
 
 # I like
  * Foxgirls
