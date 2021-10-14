@@ -1,14 +1,17 @@
 # Hi, I'm Luna
+
 I'm a trans gal from Denmark that does programming.
 Pronouns are she/her.
 
-Avatar drawn by [Sakura Hama](https://twitter.com/sakura_hama)
+Avatar drawn by [Sakura Hama](https://twitter.com/sakura_hama)  
 
 # Socials
-[![Patreon](https://img.shields.io/badge/Patreon-f96854?logo=patreon&logoColor=white)](https://www.patreon.com/clipsey) 
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=white)](https://twitter.com/LunaFoxgirlVT) 
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/channel/UCSPdkWEEXC0weGVcIYW3hhA) 
 [![Twitch Status](https://img.shields.io/twitch/status/LunaFoxgirlVT?style=social)](https://twitch.tv/LunaFoxgirlVT) 
+
+### Support Development
+[![Patreon](https://img.shields.io/badge/Patreon-f96854?logo=patreon&style=for-the-badge&logoColor=white)](https://www.patreon.com/clipsey)  
 
 # I like
  * Foxgirls
