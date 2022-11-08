@@ -6,9 +6,18 @@ Pronouns are she/her.
 Avatar drawn by [Sakura Hama](https://twitter.com/sakura_hama)  
 
 # Socials
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=white)](https://twitter.com/LunaFoxgirlVT) 
-[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/channel/UCSPdkWEEXC0weGVcIYW3hhA) 
-[![Twitch Status](https://img.shields.io/twitch/status/LunaFoxgirlVT?style=social)](https://twitch.tv/LunaFoxgirlVT) 
+<a rel="me" href="https://vt.social/@LunaFoxgirlVT">
+  <img src="https://img.shields.io/badge/Mastodon-7289da?logo=Mastodon&logoColor=white" />
+</a>
+<a href="https://twitter.com/LunaFoxgirlVT">
+  <img src="https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/channel/UCSPdkWEEXC0weGVcIYW3hhA">
+  <img src="https://img.shields.io/badge/YouTube-red?logo=youtube" />
+</a>
+<a href="https://twitch.tv/LunaFoxgirlVT">
+  <img src="https://img.shields.io/twitch/status/LunaFoxgirlVT?style=social" />
+</a>
 
 ### Support Development
 [![Patreon](https://img.shields.io/badge/Patreon-f96854?logo=patreon&style=for-the-badge&logoColor=white)](https://www.patreon.com/clipsey)  
